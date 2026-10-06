@@ -11,6 +11,8 @@ The UDF is intended to be compiled in Fluent launched through a **Visual Studio 
 
 This work is inspired by the framework provided in [Dynamic-Morphing-Wing](https://github.com/chawkiabd/Dynamic-Morphing-Wing), and extends the approach to combined LE-TE morphing with periodic pitching.
 
+For a detailed explanation of the UDF inputs and mathematical formulation, see [README_UDF_BREAKDOWN.md](README_UDF_BREAKDOWN.md)
+
 ## Overview
 
 The repository uses a second-order polynomial deformation function, modified from Wang et al. [1], to deform the aerofoil surface. A harmonic function is used to control the time-dependent morphing amplitude.
