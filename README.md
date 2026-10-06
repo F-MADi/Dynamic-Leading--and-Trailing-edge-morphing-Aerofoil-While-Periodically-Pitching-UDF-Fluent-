@@ -250,6 +250,26 @@ https://doi.org/10.1016/j.ijheatfluidflow.2026.110531
 Numerical simulation of continuous morphing wing with leading edge and trailing edge parabolic flaps.  
 *Journal of Aerospace Engineering*, 36(5), 04023051.
 
+## Publications
+
+### Journal Papers
+
+- Madi, F., Yao, Y., O'Donnell, M. P., & Win Naung, S. (2026). "A computational study on the aerodynamic properties of a pitching aerofoil with a morphing leading edge section at high Reynolds numbers." *International Journal of Heat and Fluid Flow*, *121*(2), 110531. https://doi.org/10.1016/j.ijheatfluidflow.2026.110531
+
+### Conference Papers
+
+- Madi, F., Yao, Y., O'Donnell, M. P., & Win Naung, S. (2025, March 24-26). "Dropped leading-edge aerofoil for improved aerodynamic and aeroacoustic performance" [Full Paper]. *59th 3AF International Conference on Applied Aerodynamics*, Strasbourg, France. DOI: https://doi.org/10.60711/AERO2025.20250407.8384283362140718
+
+- Madi, F., O'Donnell, M., & Yao, Y. (2024, March 27-29). "Morphing Aerofoil for Improved Aerodynamic and Aeroacoustic Performance" [Full Paper]. *58th 3AF International Conference on Applied Aerodynamics: Emerging Approaches in Aerodynamics*, France.
+
+- Madi, F., O'Donnell, M., & Yao, Y. (2024, March 27-29). "Coupled morphing of leading and trailing-edge aerofoil for improved aerodynamic and aeroacoustic performance" [Abstract Submission]. *58th 3AF International Conference on Applied Aerodynamics: Emerging Approaches in Aerodynamics*, France.
+
+- Madi, F., Kanaa, Z., Narayan, P., & Yao, Y. (2020, February 25-28). "An Investigation of a Morphing Flapped Wing" [Abstract Submission]. *Aerospace Europe Conference (AEC2020)*, Bordeaux, France.
+
+### Conference Papers Under Review / In Preparation
+
+- Madi, F., Yao, Y., O'Donnell, M. P., & Win Naung, S. (2026). "Numerical study of a Pitching Aerofoil with a Morphing Leading- and Trailing-Edge Section for Improved Aerodynamic Performance." Submitted to the *17th World Congress on Computational Mechanics (WCCM) and 10th European Congress on Computational Methods in Applied Sciences and Engineering (ECCOMAS)*, Munich, Germany, 19-24 July 2026.
+
 ## Author
 
 Fakhreddine Madi  
