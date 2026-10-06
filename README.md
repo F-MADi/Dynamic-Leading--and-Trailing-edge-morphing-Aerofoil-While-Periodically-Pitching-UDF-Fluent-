@@ -15,11 +15,11 @@ For a detailed explanation of the UDF inputs and mathematical formulation, see [
 
 ## Examples
 
-1- 
+1- DOMAIN AND MESH DEMO; LE Motion with Pitching Mesh Motion Preveiw:
 
 https://github.com/user-attachments/assets/366a21c7-3edd-4840-ad35-ec9db948ded8
 
-2-
+2- Normalised Vorticity countour for LE and TE motion while pitching:
 
 https://github.com/user-attachments/assets/fd5f625e-1c36-4bc4-b0f5-53cfce1bb7b8
 
