@@ -13,6 +13,11 @@ This work is inspired by the framework provided in [Dynamic-Morphing-Wing](https
 
 For a detailed explanation of the UDF inputs and mathematical formulation, see [README_UDF_BREAKDOWN.md](README_UDF_BREAKDOWN.md)
 
+## Examples
+
+1- 
+
+2- Madi, F. (2026). *Numerical study of a pitching aerofoil with a morphing leading- and trailing-edge section for improved aerodynamic performance* [Conference presentation video]. ECCOMAS 2026, STS425B: Disruptive Aircraft’s Wing Design through Innovative Electroactive Morphing towards Sustainable Aviation II.
 
 https://github.com/user-attachments/assets/67320339-f184-4ebc-af86-e1401eacee68
 
