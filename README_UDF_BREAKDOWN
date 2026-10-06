@@ -1,15 +1,13 @@
-Yes — here is a separate copyable README focused specifically on the UDF code, inputs, and mathematical approach.
-
-````markdown
+``markdown
 # UDF Code Explanation: Dynamic LE-TE Morphing and Periodic Pitching
 
 This document explains how the example Fluent UDF works, how the user inputs control the simulation, and the mathematical approach used to deform the aerofoil.
 
 Example UDF file:
 
-```text
+``text
 LE_12DEG_PHI15_TE_13P731DEG_PHI165_TEXC_75.c
-```
+``
 
 The UDF applies three independently controlled motions:
 
