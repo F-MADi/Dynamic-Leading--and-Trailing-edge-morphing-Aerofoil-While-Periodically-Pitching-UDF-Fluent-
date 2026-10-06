@@ -13,6 +13,10 @@ This work is inspired by the framework provided in [Dynamic-Morphing-Wing](https
 
 For a detailed explanation of the UDF inputs and mathematical formulation, see [README_UDF_BREAKDOWN.md](README_UDF_BREAKDOWN.md)
 
+
+https://github.com/user-attachments/assets/67320339-f184-4ebc-af86-e1401eacee68
+
+
 ## Overview
 
 The repository uses a second-order polynomial deformation function, modified from Wang et al. [1], to deform the aerofoil surface. A harmonic function is used to control the time-dependent morphing amplitude.
