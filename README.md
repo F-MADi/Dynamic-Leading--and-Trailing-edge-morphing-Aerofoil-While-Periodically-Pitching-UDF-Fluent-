@@ -17,7 +17,15 @@ For a detailed explanation of the UDF inputs and mathematical formulation, see [
 
 1- 
 
-2- Madi, F. (2026). *Numerical study of a pitching aerofoil with a morphing leading- and trailing-edge section for improved aerodynamic performance* [Conference presentation video]. ECCOMAS 2026, STS425B: Disruptive Aircraft’s Wing Design through Innovative Electroactive Morphing towards Sustainable Aviation II.
+https://github.com/user-attachments/assets/366a21c7-3edd-4840-ad35-ec9db948ded8
+
+2-
+
+https://github.com/user-attachments/assets/fd5f625e-1c36-4bc4-b0f5-53cfce1bb7b8
+
+
+
+Vidoes Citition: Madi, F. (2026). *Numerical study of a pitching aerofoil with a morphing leading- and trailing-edge section for improved aerodynamic performance* [Conference presentation video]. ECCOMAS 2026, STS425B: Disruptive Aircraft’s Wing Design through Innovative Electroactive Morphing towards Sustainable Aviation II.
 
 
 ## Overview
